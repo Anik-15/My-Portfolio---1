@@ -542,14 +542,14 @@ footer{
 .copyright{
   margin-bottom: 20px;
   font-size: 15px;
+  color: black;
 }
 
 .copyright a{
   font-size: 16px;
-  color: #48dbfb;
-  font-weight: 500;
+  color: black;
+  font-weight: 700;
 }
-
 .goTop{
   position: fixed;
   z-index: 999;
